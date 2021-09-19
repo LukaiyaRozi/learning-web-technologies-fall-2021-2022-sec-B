@@ -1,0 +1,36 @@
+<Person_Addreses> 
+ <Address>
+   <id>1</id>
+   <Name>John_Doe</Name>
+   <Flat></Flat>
+   <Address_House>38</Address_House>
+   <Address_Road>3</Address_Road>
+   <Address_Area>Banani</Address_Area>
+   <Address_Distick>Dhaka</Address_Distick>
+   <Department>Sales</Department>
+   <Salary>$20000</Salary>
+ </Address>
+ <Address>
+   <id>2</id>
+   <Name>Mark_Zukerberg</Name>
+   <Flat>A_1</Flat>
+   <Address_House>20</Address_House>
+   <Address_Road>18</Address_Road>
+   <Address_Area>Mirpur</Address_Area>
+   <Address_Distick>Dhaka</Address_Distick>
+   <Department>Account</Department>
+   <Salary>$12000</Salary>
+ </Address>
+ <Address>
+   <id>3</id>
+   <Name>Ala_Voski</Name>
+   <Flat></Flat>
+   <Address_House>38</Address_House>
+   <Address_Road>3</Address_Road>
+   <Address_Area>Motijheel</Address_Area>
+   <Address_Distick>Dhaka</Address_Distick>
+   <Department>Human_Resource</Department>
+   <Salary>$30000</Salary>
+ </Address>
+ </Person_Addreses>
+ 
